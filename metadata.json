@@ -1,0 +1,7 @@
+{
+  "name": "Chottu AI Assistant",
+  "description": "A highly efficient, friendly, and witty personal AI assistant with real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

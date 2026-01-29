@@ -1,0 +1,16 @@
+{
+  "name": "chottu-server",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "setup": "node setup.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
