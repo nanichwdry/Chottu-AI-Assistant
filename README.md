@@ -1,4 +1,4 @@
-# Chottu AI Assistant (Aura Edition)
+# Aura AI Assistant (Aura Edition)
 
 Your personal AI assistant with voice control and full PC access.
 
